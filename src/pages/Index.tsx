@@ -18,7 +18,7 @@ const Index = () => {
                   Lorem Ipsum Generator
                 </h1>
                 <p className="text-sm text-muted-foreground">
-                  Professional placeholder text generator
+                  Your canvas, our words. Perfect placeholder text in seconds.
                 </p>
               </div>
             </div>
