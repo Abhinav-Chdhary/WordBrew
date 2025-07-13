@@ -15,7 +15,7 @@ const Index = () => {
               </div>
               <div>
                 <h1 className="text-2xl font-bold bg-gradient-to-r from-primary to-primary-glow bg-clip-text text-transparent">
-                  Lorem Ipsum Generator
+                  WordBrew
                 </h1>
                 <p className="text-sm text-muted-foreground">
                   Your canvas, our words. Perfect placeholder text in seconds.
